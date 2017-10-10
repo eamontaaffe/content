@@ -2,8 +2,8 @@
     "podcasts": [
         {
             "name": "#723 The Risk Farmers",
-            "producers": "Planet Money",
-            "length": "20:35",
+            "producer": "Planet Money",
+            "length": "0:20:35",
             "link": "http://www.npr.org/sections/money/2016/09/07/492988779/episode-723-the-risk-farmers"
         },
         {
