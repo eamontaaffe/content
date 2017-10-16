@@ -1,6 +1,12 @@
 {
     "podcasts": [
         {
+            "name": "Luis von Ahn (Duolingo)",
+            "producer": "Tim Ferriss",
+            "length": "02:20:34",
+            "link": "https://tim.blog/2016/01/26/luis-von-ahn-duolingo/"
+        },
+        {
             "name": "#723 The Risk Farmers",
             "producer": "Planet Money",
             "length": "0:20:35",
